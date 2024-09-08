@@ -1,5 +1,5 @@
 
-# SyncLite
+# select-original-photos-based-on-file-names-because-Apple-s-shared-photo-albums-reduce-resolution
 
 SyncLite is a shell script that helps to select original photos from an input directory based on file names from a reference directory. This is particularly useful for situations where Apple's shared photo albums reduce the resolution of photos, and you want to recover the originals.
 
