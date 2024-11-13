@@ -22,13 +22,13 @@ SyncLite is a shell script that helps to select original photos from an input di
 ### Installation
 
 1. **Clone the Repository:**
-   Clone this repository or copy the script into a new file named `sync_files.sh`.
+   Clone this repository or copy the script into a new file named `main.sh`.
 
 2. **Make the Script Executable:**
    Run the following command to make the script executable:
 
    ```bash
-   chmod +x sync_files.sh
+   chmod +x main.sh
    ```
 
 ### Running the Script
@@ -36,7 +36,7 @@ SyncLite is a shell script that helps to select original photos from an input di
 Execute the script from the terminal:
 
 ```bash
-./sync_files.sh
+./main.sh
 ```
 
 ### Expected Output
